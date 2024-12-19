@@ -18,3 +18,4 @@ C:\WPF\AsyncServer\AsyncServer\obj\Debug\net8.0-windows\refint\AsyncServer.dll
 C:\WPF\AsyncServer\AsyncServer\obj\Debug\net8.0-windows\AsyncServer.pdb
 C:\WPF\AsyncServer\AsyncServer\obj\Debug\net8.0-windows\AsyncServer.genruntimeconfig.cache
 C:\WPF\AsyncServer\AsyncServer\obj\Debug\net8.0-windows\ref\AsyncServer.dll
+C:\WPF\AsyncServer\AsyncServer\obj\Debug\net8.0-windows\AsyncServer.sourcelink.json

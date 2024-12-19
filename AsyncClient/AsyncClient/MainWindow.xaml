@@ -22,7 +22,7 @@
         </StackPanel>
         <StackPanel Grid.Row="1" Grid.Column="0" VerticalAlignment="Center" Orientation="Horizontal">
             <TextBox x:Name="chat"  Margin="20" Width="200"/>
-            <Button Content="Send" Width="40" Height="20" />
+            <Button Content="Send" Width="40" Height="20" Click="SendButton"/>
         </StackPanel>
     </Grid>
 </Window>

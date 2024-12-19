@@ -18,3 +18,4 @@ C:\WPF\AsyncClient\AsyncClient\obj\Debug\net8.0-windows\refint\AsyncClient.dll
 C:\WPF\AsyncClient\AsyncClient\obj\Debug\net8.0-windows\AsyncClient.pdb
 C:\WPF\AsyncClient\AsyncClient\obj\Debug\net8.0-windows\AsyncClient.genruntimeconfig.cache
 C:\WPF\AsyncClient\AsyncClient\obj\Debug\net8.0-windows\ref\AsyncClient.dll
+C:\WPF\AsyncClient\AsyncClient\obj\Debug\net8.0-windows\AsyncClient.sourcelink.json
