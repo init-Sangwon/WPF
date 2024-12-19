@@ -1,0 +1,19 @@
+﻿<UserControl x:Class="WpfApp.Views.Main.Buttons.MemorizationButton"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:WpfApp.Views.Main.Buttons"
+             mc:Ignorable="d" 
+             d:DesignHeight="100" d:DesignWidth="100">
+    <Button x:Name="ButtonElement" Content="암기하기"
+            HorizontalAlignment="Stretch" VerticalAlignment="Stretch"
+            Margin="10" FontSize="16" FontWeight="SemiBold"
+            Background="#A8E6CF" Foreground="#333333"
+            BorderBrush="#77CBB9" BorderThickness="2"
+            Cursor="Hand">
+        <Button.Effect>
+            <DropShadowEffect Color="Gray" BlurRadius="10" ShadowDepth="2"/>
+        </Button.Effect>
+    </Button>
+</UserControl>

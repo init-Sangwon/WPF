@@ -1,0 +1,22 @@
+﻿<Window x:Class="WpfApp.Views.DeleteWord"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="단어 삭제" Height="350" Width="400">
+    
+    <Grid>
+        <ListBox x:Name="WordsListBox" Margin="10,10,10,50" SelectionMode="Multiple">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                        <CheckBox Content="{Binding Eng}" IsChecked="{Binding IsSelected}" Width="200"/>
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+
+        <Button Content="선택된 단어 삭제" 
+                HorizontalAlignment="Center" Margin="10" 
+                VerticalAlignment="Bottom" Width="150" Height="30"
+                Click="DeleteSelectedWords_Click"/>
+    </Grid>
+</Window>

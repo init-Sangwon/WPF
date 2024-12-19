@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\WPF\\AsyncServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{081920DA-2093-4DBC-8EE2-5841BCF653E8}|AsyncServer\\AsyncServer.csproj|c:\\wpf\\asyncserver\\asyncserver\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{081920DA-2093-4DBC-8EE2-5841BCF653E8}|AsyncServer\\AsyncServer.csproj|solutionrelative:asyncserver\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{081920DA-2093-4DBC-8EE2-5841BCF653E8}|AsyncServer\\AsyncServer.csproj|c:\\wpf\\asyncserver\\asyncserver\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{081920DA-2093-4DBC-8EE2-5841BCF653E8}|AsyncServer\\AsyncServer.csproj|solutionrelative:asyncserver\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{081920DA-2093-4DBC-8EE2-5841BCF653E8}|AsyncServer\\AsyncServer.csproj|c:\\wpf\\asyncserver\\asyncserver\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{081920DA-2093-4DBC-8EE2-5841BCF653E8}|AsyncServer\\AsyncServer.csproj|solutionrelative:asyncserver\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\WPF\\AsyncServer\\AsyncServer\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AsyncServer\\AssemblyInfo.cs",
+              "ToolTip": "C:\\WPF\\AsyncServer\\AsyncServer\\AssemblyInfo.cs",
+              "RelativeToolTip": "AsyncServer\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T01:25:22.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\WPF\\AsyncServer\\AsyncServer\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "AsyncServer\\MainWindow.xaml",
+              "ToolTip": "C:\\WPF\\AsyncServer\\AsyncServer\\MainWindow.xaml",
+              "RelativeToolTip": "AsyncServer\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-19T01:21:12.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\WPF\\AsyncServer\\AsyncServer\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AsyncServer\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\WPF\\AsyncServer\\AsyncServer\\MainWindow.xaml.cs",
+              "RelativeToolTip": "AsyncServer\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwCoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T01:21:11.704Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

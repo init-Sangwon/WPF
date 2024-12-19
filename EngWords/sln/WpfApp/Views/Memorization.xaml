@@ -1,0 +1,83 @@
+﻿<Window x:Class="WpfApp.Views.Memorization"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Memorization" Height="300" Width="400"
+        WindowStartupLocation="CenterScreen"
+        Background="#F9F9F9" FontFamily="Malgun Gothic">
+
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+
+        <!-- 영어 단어 표시 -->
+        <Border Background="DarkSalmon" CornerRadius="10" Padding="10">
+            <TextBlock x:Name="WordTextBlock"
+                       FontSize="26" 
+                       FontWeight="Bold"
+                       HorizontalAlignment="Center" 
+                       VerticalAlignment="Center"
+                       Foreground="White"
+                       Text="영어 단어" />
+        </Border>
+
+        <!-- 뜻 목록 -->
+        <ListBox x:Name="MeaningListBox" Grid.Row="1" Margin="0,10" SelectionMode="Single"
+                 BorderThickness="0" Background="White">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <Border Background="#E6F1FA" CornerRadius="5" Margin="0,5" Padding="8">
+                        <TextBlock Text="{Binding}" 
+                                   VerticalAlignment="Center"
+                                   FontSize="16"
+                                   Foreground="#333333" 
+                                   Cursor="Hand" />
+                    </Border>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+
+        <!-- 확인 버튼 -->
+        <Button Content="정답 확인" 
+                Grid.Row="2"
+                Width="150"
+                Height="40"
+                Background="BurlyWood" 
+                Foreground="White" 
+                FontSize="16" 
+                FontWeight="Bold"
+                Cursor="Hand"
+                BorderThickness="0"
+                HorizontalAlignment="Center"
+                Margin="0,10"
+                Click="CheckAnswerButton_Click">
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Setter Property="Template">
+                        <Setter.Value>
+                            <ControlTemplate TargetType="Button">
+                                <Border Background="{TemplateBinding Background}" 
+                                        CornerRadius="20"
+                                        BorderThickness="{TemplateBinding BorderThickness}"
+                                        BorderBrush="{TemplateBinding BorderBrush}">
+                                    <ContentPresenter HorizontalAlignment="Center"
+                                                      VerticalAlignment="Center"/>
+                                </Border>
+                            </ControlTemplate>
+                        </Setter.Value>
+                    </Setter>
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Background" Value="#45A049"/>
+                        </Trigger>
+                        <Trigger Property="IsPressed" Value="True">
+                            <Setter Property="Background" Value="#388E3C"/>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+        </Button>
+    </Grid>
+</Window>

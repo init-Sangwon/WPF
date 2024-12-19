@@ -1,0 +1,35 @@
+﻿<Window x:Class="WpfApp.Views.Mistakes"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Mistakes" Height="400" Width="400">
+    
+    <Grid>
+        <!-- ListView -->
+        <ListView x:Name="MistakesListView" Margin="10,10,10,130" ScrollViewer.HorizontalScrollBarVisibility="Disabled">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="영어 단어" DisplayMemberBinding="{Binding Eng}" Width="180"/>
+                    <GridViewColumn Header="한글 뜻" DisplayMemberBinding="{Binding Kor}" Width="180"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+        <!-- 페이지 컨트롤 및 엑셀 버튼 -->
+        <StackPanel Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="10">
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button Content="이전" Width="40" Height="40"
+                Background="#4CAF50" Foreground="White"
+                Style="{StaticResource RoundedButtonStyle}" />
+                <TextBlock x:Name="PageInfoText" VerticalAlignment="Center" FontSize="14"/>
+                <Button Content="다음" Width="40" Height="40" Margin="10"  Style="{StaticResource RoundedButtonStyle}" Background="red" Click="NextPage_Click"/>
+            </StackPanel>
+
+            <!-- 엑셀로 내보내기 버튼 -->
+            <Button Width="60" Height="60" Background="Transparent" BorderThickness="0"
+        Click="ExportToExcel_Click">
+                <Image Source="pack://application:,,,/Icon/excel.ico" Width="30" Height="30"/>
+            </Button>
+        </StackPanel>
+
+    </Grid>
+</Window>
