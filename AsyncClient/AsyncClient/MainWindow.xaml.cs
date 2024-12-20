@@ -82,12 +82,16 @@ namespace AsyncClient
                 BitConverter.GetBytes(messageLength).CopyTo(buffer, 0);
                 Encoding.UTF8.GetBytes(message, 0, message.Length, buffer, 4);
                 await stream.WriteAsync(buffer, 0, 4 + messageLength);
-
+                
                 byte[] responseBuffer = new byte[1024];
                 int bytesRead = await stream.ReadAsync(responseBuffer, 0, responseBuffer.Length);
                 string responseMessage = Encoding.UTF8.GetString(responseBuffer, 0, bytesRead);
                 Log.Text = $"서버 응답: {responseMessage}";
 
+            }
+            catch (System.IO.IOException)
+            {
+                Log.Text = "서버와의 연결이 불안정한 상태입니다.";
             }
             catch (Exception ex) {
                 Log.Text += ex.ToString();

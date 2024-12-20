@@ -35,15 +35,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AsyncServer",
+              "Title": "AsyncServer.csproj",
               "DocumentMoniker": "C:\\WPF\\AsyncServer\\AsyncServer\\AsyncServer.csproj",
               "RelativeDocumentMoniker": "AsyncServer\\AsyncServer.csproj",
               "ToolTip": "C:\\WPF\\AsyncServer\\AsyncServer\\AsyncServer.csproj",
               "RelativeToolTip": "AsyncServer\\AsyncServer.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-19T08:12:18.253Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T08:12:18.253Z"
             },
             {
               "$type": "Document",
@@ -54,8 +53,7 @@
               "ToolTip": "C:\\WPF\\AsyncServer\\AsyncServer\\AsyncServer.csproj",
               "RelativeToolTip": "AsyncServer\\AsyncServer.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-19T08:12:19.727Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T08:12:19.727Z"
             },
             {
               "$type": "Document",
@@ -88,7 +86,7 @@
               "RelativeDocumentMoniker": "AsyncServer\\MainWindow.xaml.cs",
               "ToolTip": "C:\\WPF\\AsyncServer\\AsyncServer\\MainWindow.xaml.cs",
               "RelativeToolTip": "AsyncServer\\MainWindow.xaml.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAUwEIAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAiwHUAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-19T01:21:11.704Z",
               "EditorCaption": ""

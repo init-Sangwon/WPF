@@ -1,0 +1,42 @@
+﻿<Window x:Class="WpfClient.View.Signup"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:helpers="clr-namespace:WpfClient.Helpers"
+        Title="Signup" Height="400" Width="400">
+    <Grid HorizontalAlignment="Center" VerticalAlignment="Center">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+
+        <!-- ID -->
+        <Label Content="ID :" VerticalAlignment="Center" FontSize="14" Grid.Row="0" Grid.Column="0" Margin="5" />
+        <TextBox Text="{Binding Id, UpdateSourceTrigger=PropertyChanged}" Height="20" Width="120" Grid.Row="0" Grid.Column="1" Margin="5" />
+
+        <!-- PW -->
+        <Label Content="PW :" VerticalAlignment="Center" FontSize="14" Grid.Row="1" Grid.Column="0" Margin="5" />
+        <PasswordBox helpers:PasswordBoxHelper.BoundPassword="{Binding Password, Mode=TwoWay}"
+                     Height="20" Width="120" Grid.Row="1" Grid.Column="1" Margin="5" />
+
+        <!-- PW 확인 -->
+        <Label Content="PW 확인 :" VerticalAlignment="Center" FontSize="14" Grid.Row="2" Grid.Column="0" Margin="5" />
+        <PasswordBox helpers:PasswordBoxHelper.BoundPassword="{Binding ConfirmPassword, Mode=TwoWay}"
+                     Height="20" Width="120" Grid.Row="2" Grid.Column="1" Margin="5" />
+
+        <!-- 이름 -->
+        <Label Content="이름 :" VerticalAlignment="Center" FontSize="14" Grid.Row="3" Grid.Column="0" Margin="5" />
+        <TextBox Text="{Binding Name, UpdateSourceTrigger=PropertyChanged}" Height="20" Width="120" Grid.Row="3" Grid.Column="1" Margin="5" />
+
+        <!-- 버튼 -->
+        <StackPanel Grid.Row="4" Grid.ColumnSpan="2" Orientation="Horizontal" HorizontalAlignment="Right" Margin="5">
+            <Button Content="가입하기" Style="{StaticResource BasicButtonStyle}" Command="{Binding SignupCommand}" Width="75" Margin="5" />
+        </StackPanel>
+    </Grid>
+</Window>

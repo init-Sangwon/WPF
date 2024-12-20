@@ -1,0 +1,38 @@
+﻿<Window x:Class="WpfClient.View.Login"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfClient.View"
+        mc:Ignorable="d"
+        Title="Login" Height="400" Width="400">
+
+    <Grid HorizontalAlignment="Center" VerticalAlignment="Center">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto" />
+            <!-- 라벨 위치 -->
+            <ColumnDefinition Width="*" />
+            <!-- 입력 컨트롤 위치 -->
+        </Grid.ColumnDefinitions>
+
+        <!-- ID 입력 -->
+        <Label Content="ID  :" VerticalAlignment="Center" Width="40" FontSize="14" Grid.Row="0" Grid.Column="0" Margin="5"/>
+        <TextBox Height="20" Width="120" Grid.Row="0" Grid.Column="1" Margin="5"/>
+
+        <!-- PW 입력 -->
+        <Label Content="PW :" VerticalAlignment="Center" Width="40" FontSize="14" Grid.Row="1" Grid.Column="0" Margin="5"/>
+        <PasswordBox Height="20" Width="120" Grid.Row="1" Grid.Column="1" Margin="5"/>
+
+        <!-- 버튼 -->
+        <StackPanel Grid.Row="2" Grid.ColumnSpan="2" Orientation="Horizontal" HorizontalAlignment="Right" Margin="5">
+            <Button Content="로그인" Style="{StaticResource BasicButtonStyle}" Width="75" Margin="5" Command="{Binding ConnectCommand}" />
+            <Button Content="회원가입" Style="{StaticResource BasicButtonStyle}" Width="75" Margin="5" Click="SignupButton_Click" />
+        </StackPanel>
+    </Grid>
+
+</Window>
