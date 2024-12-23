@@ -1,35 +1,37 @@
-﻿using System.Net;
+﻿using System;
+using System.Net;
 using System.Net.Sockets;
-using TaskServer;
+using System.Threading;
+using System.Threading.Tasks;
 
-
-class Program
+namespace TaskServer
 {
-    private const string ConnectionString = "Server=localhost;Port=3306;Database=chatapp;User=root;Password=root;";
-
-
-    static async Task Main(string[] args)
+    class Program
     {
-        CancellationTokenSource cts = new CancellationTokenSource();
+        private const string ConnectionString = "Server=localhost;Port=3306;Database=chatapp;User=root;Password=root;";
 
-        TcpListener listener = new TcpListener(IPAddress.Any, 8081);
-        listener.Start();
+        static async Task Main(string[] args)
+        {
+            CancellationTokenSource cts = new CancellationTokenSource();
 
-        UserDB userDB = new UserDB(ConnectionString);
-        UserService userService = new UserService(userDB);
+            TcpListener listener = new TcpListener(IPAddress.Any, 8081);
+            listener.Start();
 
-        ClientConnect clientConnect = new ClientConnect(listener, userService);
-        Task serverTask = clientConnect.AcceptClientsAsync(cts.Token);
+            UserDB userDB = new UserDB(ConnectionString);
+            RoomService roomService = new RoomService();
+            ClientManager clientManager = new ClientManager();
+            UserService userService = new UserService(userDB, roomService, clientManager);
+            ClientConnect clientConnect = new ClientConnect(listener, userService);
 
+            Console.WriteLine("서버가 실행 중입니다. Enter 키를 눌러 종료합니다.");
+            Task serverTask = clientConnect.AcceptClientsAsync(cts.Token);
+            Console.ReadLine();
 
-        Console.WriteLine("Enter 키를 눌러 서버를 종료합니다.");
-        Console.ReadLine();
+            cts.Cancel();
+            listener.Stop();
+            await serverTask;
 
-        cts.Cancel();
-
-        await serverTask;
-
-        listener.Stop();
-
+            Console.WriteLine("서버가 종료되었습니다.");
+        }
     }
 }

@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\WPF\\WpfClient\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C0319DE7-4B52-4989-9406-F419245E4BB7}|WpfClient\\WpfClient.csproj|c:\\wpf\\wpfclient\\wpfclient\\view\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C0319DE7-4B52-4989-9406-F419245E4BB7}|WpfClient\\WpfClient.csproj|solutionrelative:wpfclient\\view\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{C0319DE7-4B52-4989-9406-F419245E4BB7}|WpfClient\\WpfClient.csproj|c:\\wpf\\wpfclient\\wpfclient\\view\\chatroom.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0319DE7-4B52-4989-9406-F419245E4BB7}|WpfClient\\WpfClient.csproj|solutionrelative:wpfclient\\view\\chatroom.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0319DE7-4B52-4989-9406-F419245E4BB7}|WpfClient\\WpfClient.csproj|c:\\wpf\\wpfclient\\wpfclient\\viewmodel\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0319DE7-4B52-4989-9406-F419245E4BB7}|WpfClient\\WpfClient.csproj|solutionrelative:wpfclient\\viewmodel\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0319DE7-4B52-4989-9406-F419245E4BB7}|WpfClient\\WpfClient.csproj|c:\\wpf\\wpfclient\\wpfclient\\viewmodel\\chatroomviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0319DE7-4B52-4989-9406-F419245E4BB7}|WpfClient\\WpfClient.csproj|solutionrelative:wpfclient\\viewmodel\\chatroomviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0319DE7-4B52-4989-9406-F419245E4BB7}|WpfClient\\WpfClient.csproj|c:\\wpf\\wpfclient\\wpfclient\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0319DE7-4B52-4989-9406-F419245E4BB7}|WpfClient\\WpfClient.csproj|solutionrelative:wpfclient\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0319DE7-4B52-4989-9406-F419245E4BB7}|WpfClient\\WpfClient.csproj|c:\\wpf\\wpfclient\\wpfclient\\view\\chatroom.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C0319DE7-4B52-4989-9406-F419245E4BB7}|WpfClient\\WpfClient.csproj|solutionrelative:wpfclient\\view\\chatroom.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C0319DE7-4B52-4989-9406-F419245E4BB7}|WpfClient\\WpfClient.csproj|c:\\wpf\\wpfclient\\wpfclient\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -15,8 +31,12 @@
       "RelativeMoniker": "D:0:0:{C0319DE7-4B52-4989-9406-F419245E4BB7}|WpfClient\\WpfClient.csproj|solutionrelative:wpfclient\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0319DE7-4B52-4989-9406-F419245E4BB7}|WpfClient\\WpfClient.csproj|c:\\wpf\\wpfclient\\wpfclient\\view\\signup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C0319DE7-4B52-4989-9406-F419245E4BB7}|WpfClient\\WpfClient.csproj|solutionrelative:wpfclient\\view\\signup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{C0319DE7-4B52-4989-9406-F419245E4BB7}|WpfClient\\WpfClient.csproj|c:\\wpf\\wpfclient\\wpfclient\\helpers\\servercommunication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0319DE7-4B52-4989-9406-F419245E4BB7}|WpfClient\\WpfClient.csproj|solutionrelative:wpfclient\\helpers\\servercommunication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0319DE7-4B52-4989-9406-F419245E4BB7}|WpfClient\\WpfClient.csproj|c:\\wpf\\wpfclient\\wpfclient\\viewmodel\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0319DE7-4B52-4989-9406-F419245E4BB7}|WpfClient\\WpfClient.csproj|solutionrelative:wpfclient\\viewmodel\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C0319DE7-4B52-4989-9406-F419245E4BB7}|WpfClient\\WpfClient.csproj|c:\\wpf\\wpfclient\\wpfclient\\view\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,8 +47,20 @@
       "RelativeMoniker": "D:0:0:{C0319DE7-4B52-4989-9406-F419245E4BB7}|WpfClient\\WpfClient.csproj|solutionrelative:wpfclient\\viewmodel\\signupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0319DE7-4B52-4989-9406-F419245E4BB7}|WpfClient\\WpfClient.csproj|c:\\wpf\\wpfclient\\wpfclient\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0319DE7-4B52-4989-9406-F419245E4BB7}|WpfClient\\WpfClient.csproj|solutionrelative:wpfclient\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C0319DE7-4B52-4989-9406-F419245E4BB7}|WpfClient\\WpfClient.csproj|c:\\wpf\\wpfclient\\wpfclient\\model\\chatroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0319DE7-4B52-4989-9406-F419245E4BB7}|WpfClient\\WpfClient.csproj|solutionrelative:wpfclient\\model\\chatroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0319DE7-4B52-4989-9406-F419245E4BB7}|WpfClient\\WpfClient.csproj|c:\\wpf\\wpfclient\\wpfclient\\viewmodel\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0319DE7-4B52-4989-9406-F419245E4BB7}|WpfClient\\WpfClient.csproj|solutionrelative:wpfclient\\viewmodel\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0319DE7-4B52-4989-9406-F419245E4BB7}|WpfClient\\WpfClient.csproj|c:\\wpf\\wpfclient\\wpfclient\\view\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C0319DE7-4B52-4989-9406-F419245E4BB7}|WpfClient\\WpfClient.csproj|solutionrelative:wpfclient\\view\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0319DE7-4B52-4989-9406-F419245E4BB7}|WpfClient\\WpfClient.csproj|c:\\wpf\\wpfclient\\wpfclient\\view\\signup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C0319DE7-4B52-4989-9406-F419245E4BB7}|WpfClient\\WpfClient.csproj|solutionrelative:wpfclient\\view\\signup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C0319DE7-4B52-4989-9406-F419245E4BB7}|WpfClient\\WpfClient.csproj|c:\\wpf\\wpfclient\\wpfclient\\view\\signup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,12 +71,12 @@
       "RelativeMoniker": "D:0:0:{C0319DE7-4B52-4989-9406-F419245E4BB7}|WpfClient\\WpfClient.csproj|solutionrelative:wpfclient\\helpers\\passwordboxhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0319DE7-4B52-4989-9406-F419245E4BB7}|WpfClient\\WpfClient.csproj|c:\\wpf\\wpfclient\\wpfclient\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0319DE7-4B52-4989-9406-F419245E4BB7}|WpfClient\\WpfClient.csproj|solutionrelative:wpfclient\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C0319DE7-4B52-4989-9406-F419245E4BB7}|WpfClient\\WpfClient.csproj|c:\\wpf\\wpfclient\\wpfclient\\wpfclient.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C0319DE7-4B52-4989-9406-F419245E4BB7}|WpfClient\\WpfClient.csproj|solutionrelative:wpfclient\\wpfclient.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0319DE7-4B52-4989-9406-F419245E4BB7}|WpfClient\\WpfClient.csproj|c:\\wpf\\wpfclient\\wpfclient\\viewmodel\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0319DE7-4B52-4989-9406-F419245E4BB7}|WpfClient\\WpfClient.csproj|solutionrelative:wpfclient\\viewmodel\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C0319DE7-4B52-4989-9406-F419245E4BB7}|WpfClient\\WpfClient.csproj|c:\\wpf\\wpfclient\\wpfclient\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0319DE7-4B52-4989-9406-F419245E4BB7}|WpfClient\\WpfClient.csproj|solutionrelative:wpfclient\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C0319DE7-4B52-4989-9406-F419245E4BB7}|WpfClient\\WpfClient.csproj|c:\\wpf\\wpfclient\\wpfclient\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,107 +102,81 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SignupViewModel.cs",
-              "DocumentMoniker": "C:\\WPF\\WpfClient\\WpfClient\\ViewModel\\SignupViewModel.cs",
-              "RelativeDocumentMoniker": "WpfClient\\ViewModel\\SignupViewModel.cs",
-              "ToolTip": "C:\\WPF\\WpfClient\\WpfClient\\ViewModel\\SignupViewModel.cs",
-              "RelativeToolTip": "WpfClient\\ViewModel\\SignupViewModel.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAswDoAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T08:26:22.453Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Signup.xaml.cs",
-              "DocumentMoniker": "C:\\WPF\\WpfClient\\WpfClient\\View\\Signup.xaml.cs",
-              "RelativeDocumentMoniker": "WpfClient\\View\\Signup.xaml.cs",
-              "ToolTip": "C:\\WPF\\WpfClient\\WpfClient\\View\\Signup.xaml.cs",
-              "RelativeToolTip": "WpfClient\\View\\Signup.xaml.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAswB0AAAAAAAAAAAAAAA==",
+              "Title": "ServerCommunication.cs",
+              "DocumentMoniker": "C:\\WPF\\WpfClient\\WpfClient\\Helpers\\ServerCommunication.cs",
+              "RelativeDocumentMoniker": "WpfClient\\Helpers\\ServerCommunication.cs",
+              "ToolTip": "C:\\WPF\\WpfClient\\WpfClient\\Helpers\\ServerCommunication.cs",
+              "RelativeToolTip": "WpfClient\\Helpers\\ServerCommunication.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T07:02:32.316Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\WPF\\WpfClient\\WpfClient\\Model\\User.cs",
-              "RelativeDocumentMoniker": "WpfClient\\Model\\User.cs",
-              "ToolTip": "C:\\WPF\\WpfClient\\WpfClient\\Model\\User.cs",
-              "RelativeToolTip": "WpfClient\\Model\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T08:13:33.652Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "RelayCommand.cs",
-              "DocumentMoniker": "C:\\WPF\\WpfClient\\WpfClient\\ViewModel\\RelayCommand.cs",
-              "RelativeDocumentMoniker": "WpfClient\\ViewModel\\RelayCommand.cs",
-              "ToolTip": "C:\\WPF\\WpfClient\\WpfClient\\ViewModel\\RelayCommand.cs",
-              "RelativeToolTip": "WpfClient\\ViewModel\\RelayCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwCAAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T06:40:49.539Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "C:\\WPF\\WpfClient\\WpfClient\\ViewModel\\LoginViewModel.cs",
-              "RelativeDocumentMoniker": "WpfClient\\ViewModel\\LoginViewModel.cs",
-              "ToolTip": "C:\\WPF\\WpfClient\\WpfClient\\ViewModel\\LoginViewModel.cs",
-              "RelativeToolTip": "WpfClient\\ViewModel\\LoginViewModel.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAswCUAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T06:39:17.156Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Login.xaml.cs",
-              "DocumentMoniker": "C:\\WPF\\WpfClient\\WpfClient\\View\\Login.xaml.cs",
-              "RelativeDocumentMoniker": "WpfClient\\View\\Login.xaml.cs",
-              "ToolTip": "C:\\WPF\\WpfClient\\WpfClient\\View\\Login.xaml.cs",
-              "RelativeToolTip": "WpfClient\\View\\Login.xaml.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAqwCMAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T06:26:11.886Z",
+              "WhenOpened": "2024-12-23T04:36:25.959Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Login.xaml",
-              "DocumentMoniker": "C:\\WPF\\WpfClient\\WpfClient\\View\\Login.xaml",
-              "RelativeDocumentMoniker": "WpfClient\\View\\Login.xaml",
-              "ToolTip": "C:\\WPF\\WpfClient\\WpfClient\\View\\Login.xaml*",
-              "RelativeToolTip": "WpfClient\\View\\Login.xaml*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-20T06:24:21.439Z",
+              "Title": "ChatRoom.xaml.cs",
+              "DocumentMoniker": "C:\\WPF\\WpfClient\\WpfClient\\View\\ChatRoom.xaml.cs",
+              "RelativeDocumentMoniker": "WpfClient\\View\\ChatRoom.xaml.cs",
+              "ToolTip": "C:\\WPF\\WpfClient\\WpfClient\\View\\ChatRoom.xaml.cs",
+              "RelativeToolTip": "WpfClient\\View\\ChatRoom.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T02:48:30.968Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "ChatRoomViewModel.cs",
+              "DocumentMoniker": "C:\\WPF\\WpfClient\\WpfClient\\ViewModel\\ChatRoomViewModel.cs",
+              "RelativeDocumentMoniker": "WpfClient\\ViewModel\\ChatRoomViewModel.cs",
+              "ToolTip": "C:\\WPF\\WpfClient\\WpfClient\\ViewModel\\ChatRoomViewModel.cs",
+              "RelativeToolTip": "WpfClient\\ViewModel\\ChatRoomViewModel.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T02:43:35.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChatRoom.xaml",
+              "DocumentMoniker": "C:\\WPF\\WpfClient\\WpfClient\\View\\ChatRoom.xaml",
+              "RelativeDocumentMoniker": "WpfClient\\View\\ChatRoom.xaml",
+              "ToolTip": "C:\\WPF\\WpfClient\\WpfClient\\View\\ChatRoom.xaml",
+              "RelativeToolTip": "WpfClient\\View\\ChatRoom.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-23T02:43:06.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "C:\\WPF\\WpfClient\\WpfClient\\ViewModel\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "WpfClient\\ViewModel\\MainWindowViewModel.cs",
+              "ToolTip": "C:\\WPF\\WpfClient\\WpfClient\\ViewModel\\MainWindowViewModel.cs",
+              "RelativeToolTip": "WpfClient\\ViewModel\\MainWindowViewModel.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAwCkAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T02:33:12.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\WPF\\WpfClient\\WpfClient\\View\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "WpfClient\\View\\MainWindow.xaml.cs",
               "ToolTip": "C:\\WPF\\WpfClient\\WpfClient\\View\\MainWindow.xaml.cs",
               "RelativeToolTip": "WpfClient\\View\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-20T06:19:34.603Z",
               "EditorCaption": ""
@@ -178,31 +184,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\WPF\\WpfClient\\WpfClient\\AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "WpfClient\\AssemblyInfo.cs",
-              "ToolTip": "C:\\WPF\\WpfClient\\WpfClient\\AssemblyInfo.cs",
-              "RelativeToolTip": "WpfClient\\AssemblyInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Login.xaml.cs",
+              "DocumentMoniker": "C:\\WPF\\WpfClient\\WpfClient\\View\\Login.xaml.cs",
+              "RelativeDocumentMoniker": "WpfClient\\View\\Login.xaml.cs",
+              "ToolTip": "C:\\WPF\\WpfClient\\WpfClient\\View\\Login.xaml.cs",
+              "RelativeToolTip": "WpfClient\\View\\Login.xaml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwA8AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T06:31:08.899Z",
+              "WhenOpened": "2024-12-20T06:26:11.886Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Signup.xaml",
-              "DocumentMoniker": "C:\\WPF\\WpfClient\\WpfClient\\View\\Signup.xaml",
-              "RelativeDocumentMoniker": "WpfClient\\View\\Signup.xaml",
-              "ToolTip": "C:\\WPF\\WpfClient\\WpfClient\\View\\Signup.xaml",
-              "RelativeToolTip": "WpfClient\\View\\Signup.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-20T06:54:10.958Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\WPF\\WpfClient\\WpfClient\\View\\MainWindow.xaml",
               "RelativeDocumentMoniker": "WpfClient\\View\\MainWindow.xaml",
@@ -214,13 +208,101 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\WPF\\WpfClient\\WpfClient\\ViewModel\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "WpfClient\\ViewModel\\LoginViewModel.cs",
+              "ToolTip": "C:\\WPF\\WpfClient\\WpfClient\\ViewModel\\LoginViewModel.cs",
+              "RelativeToolTip": "WpfClient\\ViewModel\\LoginViewModel.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAwF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T06:39:17.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SignupViewModel.cs",
+              "DocumentMoniker": "C:\\WPF\\WpfClient\\WpfClient\\ViewModel\\SignupViewModel.cs",
+              "RelativeDocumentMoniker": "WpfClient\\ViewModel\\SignupViewModel.cs",
+              "ToolTip": "C:\\WPF\\WpfClient\\WpfClient\\ViewModel\\SignupViewModel.cs",
+              "RelativeToolTip": "WpfClient\\ViewModel\\SignupViewModel.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T08:26:22.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "C:\\WPF\\WpfClient\\WpfClient\\ViewModel\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "WpfClient\\ViewModel\\ViewModelBase.cs",
+              "ToolTip": "C:\\WPF\\WpfClient\\WpfClient\\ViewModel\\ViewModelBase.cs",
+              "RelativeToolTip": "WpfClient\\ViewModel\\ViewModelBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T02:47:18.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ChatRoom.cs",
+              "DocumentMoniker": "C:\\WPF\\WpfClient\\WpfClient\\Model\\ChatRoom.cs",
+              "RelativeDocumentMoniker": "WpfClient\\Model\\ChatRoom.cs",
+              "ToolTip": "C:\\WPF\\WpfClient\\WpfClient\\Model\\ChatRoom.cs",
+              "RelativeToolTip": "WpfClient\\Model\\ChatRoom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T03:02:22.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "C:\\WPF\\WpfClient\\WpfClient\\View\\Login.xaml",
+              "RelativeDocumentMoniker": "WpfClient\\View\\Login.xaml",
+              "ToolTip": "C:\\WPF\\WpfClient\\WpfClient\\View\\Login.xaml",
+              "RelativeToolTip": "WpfClient\\View\\Login.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-20T06:24:21.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\WPF\\WpfClient\\WpfClient\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "WpfClient\\AssemblyInfo.cs",
+              "ToolTip": "C:\\WPF\\WpfClient\\WpfClient\\AssemblyInfo.cs",
+              "RelativeToolTip": "WpfClient\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T06:31:08.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Signup.xaml",
+              "DocumentMoniker": "C:\\WPF\\WpfClient\\WpfClient\\View\\Signup.xaml",
+              "RelativeDocumentMoniker": "WpfClient\\View\\Signup.xaml",
+              "ToolTip": "C:\\WPF\\WpfClient\\WpfClient\\View\\Signup.xaml",
+              "RelativeToolTip": "WpfClient\\View\\Signup.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-20T06:54:10.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "PasswordBoxHelper.cs",
               "DocumentMoniker": "C:\\WPF\\WpfClient\\WpfClient\\Helpers\\PasswordBoxHelper.cs",
               "RelativeDocumentMoniker": "WpfClient\\Helpers\\PasswordBoxHelper.cs",
               "ToolTip": "C:\\WPF\\WpfClient\\WpfClient\\Helpers\\PasswordBoxHelper.cs",
               "RelativeToolTip": "WpfClient\\Helpers\\PasswordBoxHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-20T09:04:31.683Z",
               "EditorCaption": ""
@@ -228,6 +310,56 @@
             {
               "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\WPF\\WpfClient\\WpfClient\\ViewModel\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "WpfClient\\ViewModel\\RelayCommand.cs",
+              "ToolTip": "C:\\WPF\\WpfClient\\WpfClient\\ViewModel\\RelayCommand.cs",
+              "RelativeToolTip": "WpfClient\\ViewModel\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T06:40:49.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Signup.xaml.cs",
+              "DocumentMoniker": "C:\\WPF\\WpfClient\\WpfClient\\View\\Signup.xaml.cs",
+              "RelativeDocumentMoniker": "WpfClient\\View\\Signup.xaml.cs",
+              "ToolTip": "C:\\WPF\\WpfClient\\WpfClient\\View\\Signup.xaml.cs",
+              "RelativeToolTip": "WpfClient\\View\\Signup.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T07:02:32.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WpfClient",
+              "DocumentMoniker": "C:\\WPF\\WpfClient\\WpfClient\\WpfClient.csproj",
+              "RelativeDocumentMoniker": "WpfClient\\WpfClient.csproj",
+              "ToolTip": "C:\\WPF\\WpfClient\\WpfClient\\WpfClient.csproj",
+              "RelativeToolTip": "WpfClient\\WpfClient.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-23T01:16:52.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\WPF\\WpfClient\\WpfClient\\Model\\User.cs",
+              "RelativeDocumentMoniker": "WpfClient\\Model\\User.cs",
+              "ToolTip": "C:\\WPF\\WpfClient\\WpfClient\\Model\\User.cs",
+              "RelativeToolTip": "WpfClient\\Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T08:13:33.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "ButtonStyle.xaml",
               "DocumentMoniker": "C:\\WPF\\WpfClient\\WpfClient\\ResourceDictionary\\ButtonStyle.xaml",
               "RelativeDocumentMoniker": "WpfClient\\ResourceDictionary\\ButtonStyle.xaml",
@@ -239,7 +371,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 21,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\WPF\\WpfClient\\WpfClient\\App.xaml",
               "RelativeDocumentMoniker": "WpfClient\\App.xaml",
@@ -251,16 +383,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "WpfClient",
+              "DocumentIndex": 22,
+              "Title": "WpfClient.csproj",
               "DocumentMoniker": "C:\\WPF\\WpfClient\\WpfClient\\WpfClient.csproj",
               "RelativeDocumentMoniker": "WpfClient\\WpfClient.csproj",
               "ToolTip": "C:\\WPF\\WpfClient\\WpfClient\\WpfClient.csproj",
               "RelativeToolTip": "WpfClient\\WpfClient.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-20T06:35:39.85Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T06:35:39.85Z"
             }
           ]
         }

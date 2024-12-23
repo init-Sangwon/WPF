@@ -52,3 +52,5 @@ C:\WPF\WpfClient\WpfClient\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Syst
 C:\WPF\WpfClient\WpfClient\obj\Debug\net6.0-windows\WpfClient.csproj.AssemblyReference.cache
 C:\WPF\WpfClient\WpfClient\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
 C:\WPF\WpfClient\WpfClient\obj\Debug\net6.0-windows\WpfClient.csproj.Up2Date
+C:\WPF\WpfClient\WpfClient\obj\Debug\net6.0-windows\View\ChatRoom.baml
+C:\WPF\WpfClient\WpfClient\obj\Debug\net6.0-windows\View\ChatRoom.g.cs

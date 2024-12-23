@@ -23,12 +23,14 @@
         <!-- PW -->
         <Label Content="PW :" VerticalAlignment="Center" FontSize="14" Grid.Row="1" Grid.Column="0" Margin="5" />
         <PasswordBox helpers:PasswordBoxHelper.BoundPassword="{Binding Password, Mode=TwoWay}"
-                     Height="20" Width="120" Grid.Row="1" Grid.Column="1" Margin="5" />
+             helpers:PasswordBoxHelper.AttachPassword="True"
+             Height="20" Width="120" Grid.Row="1" Grid.Column="1" Margin="5" />
 
         <!-- PW 확인 -->
         <Label Content="PW 확인 :" VerticalAlignment="Center" FontSize="14" Grid.Row="2" Grid.Column="0" Margin="5" />
         <PasswordBox helpers:PasswordBoxHelper.BoundPassword="{Binding ConfirmPassword, Mode=TwoWay}"
-                     Height="20" Width="120" Grid.Row="2" Grid.Column="1" Margin="5" />
+             helpers:PasswordBoxHelper.AttachPassword="True"
+             Height="20" Width="120" Grid.Row="2" Grid.Column="1" Margin="5" />
 
         <!-- 이름 -->
         <Label Content="이름 :" VerticalAlignment="Center" FontSize="14" Grid.Row="3" Grid.Column="0" Margin="5" />

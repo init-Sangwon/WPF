@@ -45,8 +45,7 @@
               "ToolTip": "C:\\WPF\\AsyncServer\\AsyncServer\\App.xaml",
               "RelativeToolTip": "AsyncServer\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-20T05:24:15.371Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T05:24:15.371Z"
             },
             {
               "$type": "Document",
@@ -81,8 +80,7 @@
               "RelativeToolTip": "AsyncServer\\AssemblyInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T01:25:22.198Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T01:25:22.198Z"
             },
             {
               "$type": "Document",
@@ -103,7 +101,7 @@
               "RelativeDocumentMoniker": "AsyncServer\\MainWindow.xaml.cs",
               "ToolTip": "C:\\WPF\\AsyncServer\\AsyncServer\\MainWindow.xaml.cs",
               "RelativeToolTip": "AsyncServer\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-19T01:21:11.704Z",
               "EditorCaption": ""

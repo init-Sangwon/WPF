@@ -24,7 +24,7 @@ namespace WpfClient.View
         {
             InitializeComponent();
 
-            DataContext = new ViewModel.SignupViewModel();
+            DataContext = new SignupViewModel();
         }
     }
 }

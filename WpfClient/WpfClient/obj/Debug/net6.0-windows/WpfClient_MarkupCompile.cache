@@ -1,7 +1,7 @@
 ﻿WpfClient
 
 
-winexe
+exe
 C#
 .cs
 C:\WPF\WpfClient\WpfClient\obj\Debug\net6.0-windows\
@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\WPF\WpfClient\WpfClient\App.xaml
-41211659175
+5-2109945690
 
-111242003531
+17-804842416
 202-1642313719
-ResourceDictionary\ButtonStyle.xaml;View\Login.xaml;View\MainWindow.xaml;View\Signup.xaml;
+ResourceDictionary\ButtonStyle.xaml;View\ChatRoom.xaml;View\Login.xaml;View\MainWindow.xaml;View\Signup.xaml;
 
 False
 

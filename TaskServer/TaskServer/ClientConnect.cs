@@ -1,13 +1,12 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Net.Sockets;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace TaskServer
 {
-    internal class ClientConnect
+    public class ClientConnect
     {
         private readonly TcpListener _listener;
         private readonly UserService _userService;
@@ -20,24 +19,14 @@ namespace TaskServer
 
         public async Task AcceptClientsAsync(CancellationToken token)
         {
-            try
+            while (!token.IsCancellationRequested)
             {
-                while (!token.IsCancellationRequested)
-                {
-                    TcpClient client = await _listener.AcceptTcpClientAsync();
-                    Console.WriteLine("클라이언트가 연결되었습니다.");
-                }
-            }
-            catch (OperationCanceledException)
-            {
-                Console.WriteLine("클라이언트 연결 수락이 취소되었습니다.");
-            }
-            finally
-            {
-                Console.WriteLine("TCP Listener가 종료되었습니다.");
+                TcpClient client = await _listener.AcceptTcpClientAsync();
+                _ = Task.Run(() => HandleClientAsync(client));
             }
         }
-        private async Task HandleClientAsync(TcpClient client, CancellationToken token)
+
+        private async Task HandleClientAsync(TcpClient client)
         {
             try
             {
@@ -45,26 +34,18 @@ namespace TaskServer
                 using (NetworkStream stream = client.GetStream())
                 {
                     byte[] buffer = new byte[1024];
-                    int bytesRead = await stream.ReadAsync(buffer, 0, buffer.Length, token);
-                    string receivedData = Encoding.UTF8.GetString(buffer, 0, bytesRead);
+                    int bytesRead = await stream.ReadAsync(buffer, 0, buffer.Length);
+                    string message = Encoding.UTF8.GetString(buffer, 0, bytesRead);
 
-                    Console.WriteLine($"클라이언트로부터 데이터 수신: {receivedData}");
-
-                    // UserService에 데이터 처리 요청
-                    string response = await _userService.ProcessUserSignupAsync(receivedData);
-
-                    // 응답 전송
+                    string response = await _userService.ProcessRequestAsync(message);
                     byte[] responseData = Encoding.UTF8.GetBytes(response);
-                    await stream.WriteAsync(responseData, 0, responseData.Length, token);
+                    await stream.WriteAsync(responseData, 0, responseData.Length);
                 }
             }
             catch (Exception ex)
             {
-                Console.WriteLine($"클라이언트 처리 중 오류 발생: {ex.Message}");
+                Console.WriteLine($"오류: {ex.Message}");
             }
         }
-
     }
 }
-    
-

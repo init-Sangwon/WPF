@@ -1,44 +1,64 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 
 namespace TaskServer
 {
-    internal class UserService
+    public class UserService
     {
         private readonly UserDB _userDB;
+        private readonly RoomService _roomService;
+        private readonly ClientManager _clientManager;
 
-        public UserService(UserDB userDB)
+        public UserService(UserDB userDB, RoomService roomService, ClientManager clientManager)
         {
             _userDB = userDB;
+            _roomService = roomService;
+            _clientManager = clientManager;
         }
 
-        public async Task<string> ProcessUserSignupAsync(string receivedData)
+        public async Task<string> ProcessRequestAsync(string message)
         {
-            try
+            if (message.StartsWith("SIGNUP|"))
             {
-                string[] parts = receivedData.Split('|');
-                if (parts.Length != 3)
-                {
-                    return "잘못된 데이터 형식";
-                }
-
-                string id = parts[0];
-                string password = parts[1];
-                string name = parts[2];
-
-                // 데이터베이스에 사용자 정보 저장
-                await _userDB.InsertUserAsync(id, password, name);
-
-                return "회원가입 성공";
+                string signupData = message.Substring(7);
+                return await ProcessUserSignupAsync(signupData);
             }
-            catch (Exception ex)
+            if (message.StartsWith("LOGIN|"))
             {
-                Console.WriteLine($"회원가입 처리 중 오류 발생: {ex.Message}");
-                return "서버 내부 오류";
+                string loginData = message.Substring(6);
+                return await ProcessUserLoginAsync(loginData);
             }
+            if (message.StartsWith("MESSAGE|"))
+            {
+                string chatData = message.Substring(8);
+                return _clientManager.BroadcastMessage(chatData);
+            }
+
+            return "잘못된 요청 형식";
+        }
+
+        public async Task<string> ProcessUserSignupAsync(string data)
+        {
+            string[] parts = data.Split('|');
+            if (parts.Length != 3) return "잘못된 데이터 형식";
+
+            string id = parts[0];
+            string password = parts[1];
+            string name = parts[2];
+
+            await _userDB.InsertUserAsync(id, password, name);
+            return "회원가입 성공";
+        }
+
+        public async Task<string> ProcessUserLoginAsync(string data)
+        {
+            string[] parts = data.Split('|');
+            if (parts.Length != 2) return "잘못된 데이터 형식";
+
+            string id = parts[0];
+            string hashedPassword = parts[1];
+
+            return await _userDB.ValidateUserAsync(id, hashedPassword) ? "로그인 성공" : "로그인 실패";
         }
     }
 }

@@ -1,0 +1,20 @@
+﻿<Window x:Class="WpfClient.View.ChatRoom"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Chat Room" Height="400" Width="600">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+
+        <!-- 채팅 메시지 리스트 -->
+        <ListBox ItemsSource="{Binding Messages}" Grid.Row="0" Margin="10" />
+
+        <!-- 메시지 입력 및 전송 버튼 -->
+        <StackPanel Orientation="Horizontal" Grid.Row="1" Margin="10">
+            <TextBox Text="{Binding MessageText, UpdateSourceTrigger=PropertyChanged}" Width="400" />
+            <Button Content="전송" Command="{Binding SendMessageCommand}" Margin="5,0,0,0" />
+        </StackPanel>
+    </Grid>
+</Window>
