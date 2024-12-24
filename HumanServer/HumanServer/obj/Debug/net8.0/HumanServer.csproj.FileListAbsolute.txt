@@ -1,0 +1,15 @@
+C:\WPF\HumanServer\HumanServer\bin\Debug\net8.0\HumanServer.exe
+C:\WPF\HumanServer\HumanServer\bin\Debug\net8.0\HumanServer.deps.json
+C:\WPF\HumanServer\HumanServer\bin\Debug\net8.0\HumanServer.runtimeconfig.json
+C:\WPF\HumanServer\HumanServer\bin\Debug\net8.0\HumanServer.dll
+C:\WPF\HumanServer\HumanServer\bin\Debug\net8.0\HumanServer.pdb
+C:\WPF\HumanServer\HumanServer\obj\Debug\net8.0\HumanServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\WPF\HumanServer\HumanServer\obj\Debug\net8.0\HumanServer.AssemblyInfoInputs.cache
+C:\WPF\HumanServer\HumanServer\obj\Debug\net8.0\HumanServer.AssemblyInfo.cs
+C:\WPF\HumanServer\HumanServer\obj\Debug\net8.0\HumanServer.csproj.CoreCompileInputs.cache
+C:\WPF\HumanServer\HumanServer\obj\Debug\net8.0\HumanServer.sourcelink.json
+C:\WPF\HumanServer\HumanServer\obj\Debug\net8.0\HumanServer.dll
+C:\WPF\HumanServer\HumanServer\obj\Debug\net8.0\refint\HumanServer.dll
+C:\WPF\HumanServer\HumanServer\obj\Debug\net8.0\HumanServer.pdb
+C:\WPF\HumanServer\HumanServer\obj\Debug\net8.0\HumanServer.genruntimeconfig.cache
+C:\WPF\HumanServer\HumanServer\obj\Debug\net8.0\ref\HumanServer.dll

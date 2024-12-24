@@ -1,0 +1,15 @@
+C:\WPF\ClaudeServer\ClaudeServer\bin\Debug\net8.0\ClaudeServer.exe
+C:\WPF\ClaudeServer\ClaudeServer\bin\Debug\net8.0\ClaudeServer.deps.json
+C:\WPF\ClaudeServer\ClaudeServer\bin\Debug\net8.0\ClaudeServer.runtimeconfig.json
+C:\WPF\ClaudeServer\ClaudeServer\bin\Debug\net8.0\ClaudeServer.dll
+C:\WPF\ClaudeServer\ClaudeServer\bin\Debug\net8.0\ClaudeServer.pdb
+C:\WPF\ClaudeServer\ClaudeServer\obj\Debug\net8.0\ClaudeServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\WPF\ClaudeServer\ClaudeServer\obj\Debug\net8.0\ClaudeServer.AssemblyInfoInputs.cache
+C:\WPF\ClaudeServer\ClaudeServer\obj\Debug\net8.0\ClaudeServer.AssemblyInfo.cs
+C:\WPF\ClaudeServer\ClaudeServer\obj\Debug\net8.0\ClaudeServer.csproj.CoreCompileInputs.cache
+C:\WPF\ClaudeServer\ClaudeServer\obj\Debug\net8.0\ClaudeServer.sourcelink.json
+C:\WPF\ClaudeServer\ClaudeServer\obj\Debug\net8.0\ClaudeServer.dll
+C:\WPF\ClaudeServer\ClaudeServer\obj\Debug\net8.0\refint\ClaudeServer.dll
+C:\WPF\ClaudeServer\ClaudeServer\obj\Debug\net8.0\ClaudeServer.pdb
+C:\WPF\ClaudeServer\ClaudeServer\obj\Debug\net8.0\ClaudeServer.genruntimeconfig.cache
+C:\WPF\ClaudeServer\ClaudeServer\obj\Debug\net8.0\ref\ClaudeServer.dll

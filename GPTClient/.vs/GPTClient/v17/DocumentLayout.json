@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\WPF\\GPTClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEAA965-D16F-492D-89E2-C04BB54830BD}|GPTClient\\GPTClient.csproj|c:\\wpf\\gptclient\\gptclient\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FEAA965-D16F-492D-89E2-C04BB54830BD}|GPTClient\\GPTClient.csproj|solutionrelative:gptclient\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEAA965-D16F-492D-89E2-C04BB54830BD}|GPTClient\\GPTClient.csproj|c:\\wpf\\gptclient\\gptclient\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1FEAA965-D16F-492D-89E2-C04BB54830BD}|GPTClient\\GPTClient.csproj|solutionrelative:gptclient\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEAA965-D16F-492D-89E2-C04BB54830BD}|GPTClient\\GPTClient.csproj|c:\\wpf\\gptclient\\gptclient\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FEAA965-D16F-492D-89E2-C04BB54830BD}|GPTClient\\GPTClient.csproj|solutionrelative:gptclient\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEAA965-D16F-492D-89E2-C04BB54830BD}|GPTClient\\GPTClient.csproj|c:\\wpf\\gptclient\\gptclient\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1FEAA965-D16F-492D-89E2-C04BB54830BD}|GPTClient\\GPTClient.csproj|solutionrelative:gptclient\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\WPF\\GPTClient\\GPTClient\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "GPTClient\\AssemblyInfo.cs",
+              "ToolTip": "C:\\WPF\\GPTClient\\GPTClient\\AssemblyInfo.cs",
+              "RelativeToolTip": "GPTClient\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T04:25:15.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\WPF\\GPTClient\\GPTClient\\App.xaml",
+              "RelativeDocumentMoniker": "GPTClient\\App.xaml",
+              "ToolTip": "C:\\WPF\\GPTClient\\GPTClient\\App.xaml",
+              "RelativeToolTip": "GPTClient\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-24T01:59:24.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\WPF\\GPTClient\\GPTClient\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "GPTClient\\MainWindow.xaml",
+              "ToolTip": "C:\\WPF\\GPTClient\\GPTClient\\MainWindow.xaml",
+              "RelativeToolTip": "GPTClient\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-24T01:59:14.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\WPF\\GPTClient\\GPTClient\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "GPTClient\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\WPF\\GPTClient\\GPTClient\\MainWindow.xaml.cs",
+              "RelativeToolTip": "GPTClient\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T01:59:13.691Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

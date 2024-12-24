@@ -1,0 +1,15 @@
+C:\WPF\GeminiServer\GeminiServer\bin\Debug\net8.0\GeminiServer.exe
+C:\WPF\GeminiServer\GeminiServer\bin\Debug\net8.0\GeminiServer.deps.json
+C:\WPF\GeminiServer\GeminiServer\bin\Debug\net8.0\GeminiServer.runtimeconfig.json
+C:\WPF\GeminiServer\GeminiServer\bin\Debug\net8.0\GeminiServer.dll
+C:\WPF\GeminiServer\GeminiServer\bin\Debug\net8.0\GeminiServer.pdb
+C:\WPF\GeminiServer\GeminiServer\obj\Debug\net8.0\GeminiServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\WPF\GeminiServer\GeminiServer\obj\Debug\net8.0\GeminiServer.AssemblyInfoInputs.cache
+C:\WPF\GeminiServer\GeminiServer\obj\Debug\net8.0\GeminiServer.AssemblyInfo.cs
+C:\WPF\GeminiServer\GeminiServer\obj\Debug\net8.0\GeminiServer.csproj.CoreCompileInputs.cache
+C:\WPF\GeminiServer\GeminiServer\obj\Debug\net8.0\GeminiServer.sourcelink.json
+C:\WPF\GeminiServer\GeminiServer\obj\Debug\net8.0\GeminiServer.dll
+C:\WPF\GeminiServer\GeminiServer\obj\Debug\net8.0\refint\GeminiServer.dll
+C:\WPF\GeminiServer\GeminiServer\obj\Debug\net8.0\GeminiServer.pdb
+C:\WPF\GeminiServer\GeminiServer\obj\Debug\net8.0\GeminiServer.genruntimeconfig.cache
+C:\WPF\GeminiServer\GeminiServer\obj\Debug\net8.0\ref\GeminiServer.dll

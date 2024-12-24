@@ -1,0 +1,15 @@
+C:\WPF\Gpto1MiniClient\Gpto1MiniClient\bin\Debug\net8.0\Gpto1MiniServer.exe
+C:\WPF\Gpto1MiniClient\Gpto1MiniClient\bin\Debug\net8.0\Gpto1MiniServer.deps.json
+C:\WPF\Gpto1MiniClient\Gpto1MiniClient\bin\Debug\net8.0\Gpto1MiniServer.runtimeconfig.json
+C:\WPF\Gpto1MiniClient\Gpto1MiniClient\bin\Debug\net8.0\Gpto1MiniServer.dll
+C:\WPF\Gpto1MiniClient\Gpto1MiniClient\bin\Debug\net8.0\Gpto1MiniServer.pdb
+C:\WPF\Gpto1MiniClient\Gpto1MiniClient\obj\Debug\net8.0\Gpto1MiniServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\WPF\Gpto1MiniClient\Gpto1MiniClient\obj\Debug\net8.0\Gpto1MiniServer.AssemblyInfoInputs.cache
+C:\WPF\Gpto1MiniClient\Gpto1MiniClient\obj\Debug\net8.0\Gpto1MiniServer.AssemblyInfo.cs
+C:\WPF\Gpto1MiniClient\Gpto1MiniClient\obj\Debug\net8.0\Gpto1MiniServer.csproj.CoreCompileInputs.cache
+C:\WPF\Gpto1MiniClient\Gpto1MiniClient\obj\Debug\net8.0\Gpto1MiniServer.sourcelink.json
+C:\WPF\Gpto1MiniClient\Gpto1MiniClient\obj\Debug\net8.0\Gpto1MiniServer.dll
+C:\WPF\Gpto1MiniClient\Gpto1MiniClient\obj\Debug\net8.0\refint\Gpto1MiniServer.dll
+C:\WPF\Gpto1MiniClient\Gpto1MiniClient\obj\Debug\net8.0\Gpto1MiniServer.pdb
+C:\WPF\Gpto1MiniClient\Gpto1MiniClient\obj\Debug\net8.0\Gpto1MiniServer.genruntimeconfig.cache
+C:\WPF\Gpto1MiniClient\Gpto1MiniClient\obj\Debug\net8.0\ref\Gpto1MiniServer.dll

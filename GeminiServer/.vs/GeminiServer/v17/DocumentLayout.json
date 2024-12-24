@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\WPF\\GeminiServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B16F257-7C00-4D47-AF3C-5663D88EC75B}|GeminiServer\\GeminiServer.csproj|c:\\wpf\\geminiserver\\geminiserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B16F257-7C00-4D47-AF3C-5663D88EC75B}|GeminiServer\\GeminiServer.csproj|solutionrelative:geminiserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\WPF\\GeminiServer\\GeminiServer\\Program.cs",
+              "RelativeDocumentMoniker": "GeminiServer\\Program.cs",
+              "ToolTip": "C:\\WPF\\GeminiServer\\GeminiServer\\Program.cs",
+              "RelativeToolTip": "GeminiServer\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T02:16:54.31Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

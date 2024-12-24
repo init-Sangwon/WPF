@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\WPF\\Gpto1MiniServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{941D33B4-C917-4BC7-9235-C473D855C22B}|Gpto1MiniServer\\Gpto1MiniClient.csproj|c:\\wpf\\gpto1miniserver\\gpto1miniserver\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{941D33B4-C917-4BC7-9235-C473D855C22B}|Gpto1MiniServer\\Gpto1MiniClient.csproj|solutionrelative:gpto1miniserver\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{941D33B4-C917-4BC7-9235-C473D855C22B}|Gpto1MiniServer\\Gpto1MiniClient.csproj|c:\\wpf\\gpto1miniserver\\gpto1miniserver\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{941D33B4-C917-4BC7-9235-C473D855C22B}|Gpto1MiniServer\\Gpto1MiniClient.csproj|solutionrelative:gpto1miniserver\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{941D33B4-C917-4BC7-9235-C473D855C22B}|Gpto1MiniServer\\Gpto1MiniClient.csproj|c:\\wpf\\gpto1miniserver\\gpto1miniserver\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{941D33B4-C917-4BC7-9235-C473D855C22B}|Gpto1MiniServer\\Gpto1MiniClient.csproj|solutionrelative:gpto1miniserver\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{941D33B4-C917-4BC7-9235-C473D855C22B}|Gpto1MiniServer\\Gpto1MiniClient.csproj|c:\\wpf\\gpto1miniserver\\gpto1miniserver\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{941D33B4-C917-4BC7-9235-C473D855C22B}|Gpto1MiniServer\\Gpto1MiniClient.csproj|solutionrelative:gpto1miniserver\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\WPF\\Gpto1MiniServer\\Gpto1MiniServer\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Gpto1MiniServer\\AssemblyInfo.cs",
+              "ToolTip": "C:\\WPF\\Gpto1MiniServer\\Gpto1MiniServer\\AssemblyInfo.cs",
+              "RelativeToolTip": "Gpto1MiniServer\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T02:28:15.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\WPF\\Gpto1MiniServer\\Gpto1MiniServer\\App.xaml",
+              "RelativeDocumentMoniker": "Gpto1MiniServer\\App.xaml",
+              "ToolTip": "C:\\WPF\\Gpto1MiniServer\\Gpto1MiniServer\\App.xaml",
+              "RelativeToolTip": "Gpto1MiniServer\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-24T02:25:33.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\WPF\\Gpto1MiniServer\\Gpto1MiniServer\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Gpto1MiniServer\\MainWindow.xaml",
+              "ToolTip": "C:\\WPF\\Gpto1MiniServer\\Gpto1MiniServer\\MainWindow.xaml",
+              "RelativeToolTip": "Gpto1MiniServer\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-24T02:25:12.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\WPF\\Gpto1MiniServer\\Gpto1MiniServer\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Gpto1MiniServer\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\WPF\\Gpto1MiniServer\\Gpto1MiniServer\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Gpto1MiniServer\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA7wCQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T02:25:12.165Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,307 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\WPF\\Chess\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1970A0DA-DA1F-41A0-A21F-2E738A284597}|Chess\\Chess.csproj|c:\\wpf\\chess\\chess\\models\\pieces\\king.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1970A0DA-DA1F-41A0-A21F-2E738A284597}|Chess\\Chess.csproj|solutionrelative:chess\\models\\pieces\\king.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1970A0DA-DA1F-41A0-A21F-2E738A284597}|Chess\\Chess.csproj|c:\\wpf\\chess\\chess\\models\\pieces\\pawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1970A0DA-DA1F-41A0-A21F-2E738A284597}|Chess\\Chess.csproj|solutionrelative:chess\\models\\pieces\\pawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1970A0DA-DA1F-41A0-A21F-2E738A284597}|Chess\\Chess.csproj|c:\\wpf\\chess\\chess\\helpers\\chesshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1970A0DA-DA1F-41A0-A21F-2E738A284597}|Chess\\Chess.csproj|solutionrelative:chess\\helpers\\chesshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1970A0DA-DA1F-41A0-A21F-2E738A284597}|Chess\\Chess.csproj|c:\\wpf\\chess\\chess\\viewmodels\\chessboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1970A0DA-DA1F-41A0-A21F-2E738A284597}|Chess\\Chess.csproj|solutionrelative:chess\\viewmodels\\chessboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1970A0DA-DA1F-41A0-A21F-2E738A284597}|Chess\\Chess.csproj|c:\\wpf\\chess\\chess\\models\\pieces\\queen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1970A0DA-DA1F-41A0-A21F-2E738A284597}|Chess\\Chess.csproj|solutionrelative:chess\\models\\pieces\\queen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1970A0DA-DA1F-41A0-A21F-2E738A284597}|Chess\\Chess.csproj|c:\\wpf\\chess\\chess\\models\\pieces\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1970A0DA-DA1F-41A0-A21F-2E738A284597}|Chess\\Chess.csproj|solutionrelative:chess\\models\\pieces\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1970A0DA-DA1F-41A0-A21F-2E738A284597}|Chess\\Chess.csproj|c:\\wpf\\chess\\chess\\models\\pieces\\rook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1970A0DA-DA1F-41A0-A21F-2E738A284597}|Chess\\Chess.csproj|solutionrelative:chess\\models\\pieces\\rook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1970A0DA-DA1F-41A0-A21F-2E738A284597}|Chess\\Chess.csproj|c:\\wpf\\chess\\chess\\models\\chesspiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1970A0DA-DA1F-41A0-A21F-2E738A284597}|Chess\\Chess.csproj|solutionrelative:chess\\models\\chesspiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1970A0DA-DA1F-41A0-A21F-2E738A284597}|Chess\\Chess.csproj|c:\\wpf\\chess\\chess\\models\\pieces\\bishop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1970A0DA-DA1F-41A0-A21F-2E738A284597}|Chess\\Chess.csproj|solutionrelative:chess\\models\\pieces\\bishop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1970A0DA-DA1F-41A0-A21F-2E738A284597}|Chess\\Chess.csproj|c:\\wpf\\chess\\chess\\models\\piecetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1970A0DA-DA1F-41A0-A21F-2E738A284597}|Chess\\Chess.csproj|solutionrelative:chess\\models\\piecetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1970A0DA-DA1F-41A0-A21F-2E738A284597}|Chess\\Chess.csproj|c:\\wpf\\chess\\chess\\viewmodels\\chesssquareviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1970A0DA-DA1F-41A0-A21F-2E738A284597}|Chess\\Chess.csproj|solutionrelative:chess\\viewmodels\\chesssquareviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1970A0DA-DA1F-41A0-A21F-2E738A284597}|Chess\\Chess.csproj|c:\\wpf\\chess\\chess\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1970A0DA-DA1F-41A0-A21F-2E738A284597}|Chess\\Chess.csproj|solutionrelative:chess\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1970A0DA-DA1F-41A0-A21F-2E738A284597}|Chess\\Chess.csproj|c:\\wpf\\chess\\chess\\models\\chessgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1970A0DA-DA1F-41A0-A21F-2E738A284597}|Chess\\Chess.csproj|solutionrelative:chess\\models\\chessgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1970A0DA-DA1F-41A0-A21F-2E738A284597}|Chess\\Chess.csproj|c:\\wpf\\chess\\chess\\chess.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{1970A0DA-DA1F-41A0-A21F-2E738A284597}|Chess\\Chess.csproj|solutionrelative:chess\\chess.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1970A0DA-DA1F-41A0-A21F-2E738A284597}|Chess\\Chess.csproj|c:\\wpf\\chess\\chess\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1970A0DA-DA1F-41A0-A21F-2E738A284597}|Chess\\Chess.csproj|solutionrelative:chess\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1970A0DA-DA1F-41A0-A21F-2E738A284597}|Chess\\Chess.csproj|c:\\wpf\\chess\\chess\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1970A0DA-DA1F-41A0-A21F-2E738A284597}|Chess\\Chess.csproj|solutionrelative:chess\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1970A0DA-DA1F-41A0-A21F-2E738A284597}|Chess\\Chess.csproj|c:\\wpf\\chess\\chess\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1970A0DA-DA1F-41A0-A21F-2E738A284597}|Chess\\Chess.csproj|solutionrelative:chess\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1970A0DA-DA1F-41A0-A21F-2E738A284597}|Chess\\Chess.csproj|c:\\wpf\\chess\\chess\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1970A0DA-DA1F-41A0-A21F-2E738A284597}|Chess\\Chess.csproj|solutionrelative:chess\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChessHelper.cs",
+              "DocumentMoniker": "C:\\WPF\\Chess\\Chess\\Helpers\\ChessHelper.cs",
+              "RelativeDocumentMoniker": "Chess\\Helpers\\ChessHelper.cs",
+              "ToolTip": "C:\\WPF\\Chess\\Chess\\Helpers\\ChessHelper.cs",
+              "RelativeToolTip": "Chess\\Helpers\\ChessHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T08:33:29.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChessBoardViewModel.cs",
+              "DocumentMoniker": "C:\\WPF\\Chess\\Chess\\ViewModels\\ChessBoardViewModel.cs",
+              "RelativeDocumentMoniker": "Chess\\ViewModels\\ChessBoardViewModel.cs",
+              "ToolTip": "C:\\WPF\\Chess\\Chess\\ViewModels\\ChessBoardViewModel.cs",
+              "RelativeToolTip": "Chess\\ViewModels\\ChessBoardViewModel.cs",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAuwOIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T08:19:20.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ChessSquareViewModel.cs",
+              "DocumentMoniker": "C:\\WPF\\Chess\\Chess\\ViewModels\\ChessSquareViewModel.cs",
+              "RelativeDocumentMoniker": "Chess\\ViewModels\\ChessSquareViewModel.cs",
+              "ToolTip": "C:\\WPF\\Chess\\Chess\\ViewModels\\ChessSquareViewModel.cs",
+              "RelativeToolTip": "Chess\\ViewModels\\ChessSquareViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T08:25:41.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Bishop.cs",
+              "DocumentMoniker": "C:\\WPF\\Chess\\Chess\\Models\\Pieces\\Bishop.cs",
+              "RelativeDocumentMoniker": "Chess\\Models\\Pieces\\Bishop.cs",
+              "ToolTip": "C:\\WPF\\Chess\\Chess\\Models\\Pieces\\Bishop.cs",
+              "RelativeToolTip": "Chess\\Models\\Pieces\\Bishop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T08:18:37.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChessPiece.cs",
+              "DocumentMoniker": "C:\\WPF\\Chess\\Chess\\Models\\ChessPiece.cs",
+              "RelativeDocumentMoniker": "Chess\\Models\\ChessPiece.cs",
+              "ToolTip": "C:\\WPF\\Chess\\Chess\\Models\\ChessPiece.cs",
+              "RelativeToolTip": "Chess\\Models\\ChessPiece.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T08:16:45.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PieceType.cs",
+              "DocumentMoniker": "C:\\WPF\\Chess\\Chess\\Models\\PieceType.cs",
+              "RelativeDocumentMoniker": "Chess\\Models\\PieceType.cs",
+              "ToolTip": "C:\\WPF\\Chess\\Chess\\Models\\PieceType.cs",
+              "RelativeToolTip": "Chess\\Models\\PieceType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T08:24:59.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pawn.cs",
+              "DocumentMoniker": "C:\\WPF\\Chess\\Chess\\Models\\Pieces\\Pawn.cs",
+              "RelativeDocumentMoniker": "Chess\\Models\\Pieces\\Pawn.cs",
+              "ToolTip": "C:\\WPF\\Chess\\Chess\\Models\\Pieces\\Pawn.cs",
+              "RelativeToolTip": "Chess\\Models\\Pieces\\Pawn.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAIwDUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T08:17:56.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Queen.cs",
+              "DocumentMoniker": "C:\\WPF\\Chess\\Chess\\Models\\Pieces\\Queen.cs",
+              "RelativeDocumentMoniker": "Chess\\Models\\Pieces\\Queen.cs",
+              "ToolTip": "C:\\WPF\\Chess\\Chess\\Models\\Pieces\\Queen.cs",
+              "RelativeToolTip": "Chess\\Models\\Pieces\\Queen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T08:23:47.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Rook.cs",
+              "DocumentMoniker": "C:\\WPF\\Chess\\Chess\\Models\\Pieces\\Rook.cs",
+              "RelativeDocumentMoniker": "Chess\\Models\\Pieces\\Rook.cs",
+              "ToolTip": "C:\\WPF\\Chess\\Chess\\Models\\Pieces\\Rook.cs",
+              "RelativeToolTip": "Chess\\Models\\Pieces\\Rook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T08:24:03.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Knight.cs",
+              "DocumentMoniker": "C:\\WPF\\Chess\\Chess\\Models\\Pieces\\Knight.cs",
+              "RelativeDocumentMoniker": "Chess\\Models\\Pieces\\Knight.cs",
+              "ToolTip": "C:\\WPF\\Chess\\Chess\\Models\\Pieces\\Knight.cs",
+              "RelativeToolTip": "Chess\\Models\\Pieces\\Knight.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T08:18:17.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "King.cs",
+              "DocumentMoniker": "C:\\WPF\\Chess\\Chess\\Models\\Pieces\\King.cs",
+              "RelativeDocumentMoniker": "Chess\\Models\\Pieces\\King.cs",
+              "ToolTip": "C:\\WPF\\Chess\\Chess\\Models\\Pieces\\King.cs",
+              "RelativeToolTip": "Chess\\Models\\Pieces\\King.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAAAG4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T08:23:18.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Position.cs",
+              "DocumentMoniker": "C:\\WPF\\Chess\\Chess\\Models\\Position.cs",
+              "RelativeDocumentMoniker": "Chess\\Models\\Position.cs",
+              "ToolTip": "C:\\WPF\\Chess\\Chess\\Models\\Position.cs",
+              "RelativeToolTip": "Chess\\Models\\Position.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T08:24:37.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ChessGame.cs",
+              "DocumentMoniker": "C:\\WPF\\Chess\\Chess\\Models\\ChessGame.cs",
+              "RelativeDocumentMoniker": "Chess\\Models\\ChessGame.cs",
+              "ToolTip": "C:\\WPF\\Chess\\Chess\\Models\\ChessGame.cs",
+              "RelativeToolTip": "Chess\\Models\\ChessGame.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T08:21:55.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Chess",
+              "DocumentMoniker": "C:\\WPF\\Chess\\Chess\\Chess.csproj",
+              "RelativeDocumentMoniker": "Chess\\Chess.csproj",
+              "ToolTip": "C:\\WPF\\Chess\\Chess\\Chess.csproj",
+              "RelativeToolTip": "Chess\\Chess.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-23T08:52:36.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\WPF\\Chess\\Chess\\App.xaml",
+              "RelativeDocumentMoniker": "Chess\\App.xaml",
+              "ToolTip": "C:\\WPF\\Chess\\Chess\\App.xaml",
+              "RelativeToolTip": "Chess\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-23T08:03:51.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\WPF\\Chess\\Chess\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Chess\\Views\\MainWindow.xaml",
+              "ToolTip": "C:\\WPF\\Chess\\Chess\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "Chess\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-23T08:05:34.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\WPF\\Chess\\Chess\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Chess\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\WPF\\Chess\\Chess\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Chess\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T07:34:08.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\WPF\\Chess\\Chess\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Chess\\AssemblyInfo.cs",
+              "ToolTip": "C:\\WPF\\Chess\\Chess\\AssemblyInfo.cs",
+              "RelativeToolTip": "Chess\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T07:38:21.517Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

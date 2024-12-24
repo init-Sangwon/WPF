@@ -1,0 +1,15 @@
+C:\WPF\GPTChatServer\GPTChatServer\bin\Debug\net8.0\GPTChatServer.exe
+C:\WPF\GPTChatServer\GPTChatServer\bin\Debug\net8.0\GPTChatServer.deps.json
+C:\WPF\GPTChatServer\GPTChatServer\bin\Debug\net8.0\GPTChatServer.runtimeconfig.json
+C:\WPF\GPTChatServer\GPTChatServer\bin\Debug\net8.0\GPTChatServer.dll
+C:\WPF\GPTChatServer\GPTChatServer\bin\Debug\net8.0\GPTChatServer.pdb
+C:\WPF\GPTChatServer\GPTChatServer\obj\Debug\net8.0\GPTChatServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\WPF\GPTChatServer\GPTChatServer\obj\Debug\net8.0\GPTChatServer.AssemblyInfoInputs.cache
+C:\WPF\GPTChatServer\GPTChatServer\obj\Debug\net8.0\GPTChatServer.AssemblyInfo.cs
+C:\WPF\GPTChatServer\GPTChatServer\obj\Debug\net8.0\GPTChatServer.csproj.CoreCompileInputs.cache
+C:\WPF\GPTChatServer\GPTChatServer\obj\Debug\net8.0\GPTChatServer.sourcelink.json
+C:\WPF\GPTChatServer\GPTChatServer\obj\Debug\net8.0\GPTChatServer.dll
+C:\WPF\GPTChatServer\GPTChatServer\obj\Debug\net8.0\refint\GPTChatServer.dll
+C:\WPF\GPTChatServer\GPTChatServer\obj\Debug\net8.0\GPTChatServer.pdb
+C:\WPF\GPTChatServer\GPTChatServer\obj\Debug\net8.0\GPTChatServer.genruntimeconfig.cache
+C:\WPF\GPTChatServer\GPTChatServer\obj\Debug\net8.0\ref\GPTChatServer.dll
