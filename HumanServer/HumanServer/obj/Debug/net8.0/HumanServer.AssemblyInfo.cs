@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HumanServer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e87296fdcb62e540fd6b65b2823e9101b7c347e7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a012d51e349ccfb9bd2dbbaa50afa3507d6dee5")]
 [assembly: System.Reflection.AssemblyProductAttribute("HumanServer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HumanServer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
